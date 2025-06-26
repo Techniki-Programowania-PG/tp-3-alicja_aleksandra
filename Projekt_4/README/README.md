@@ -1,6 +1,7 @@
 <div align="right">
-**Alicja Morawska 203168
-  Aleksandra Stosio 203792**
+<strong>Autorki:</strong><br>
+Alicja Morawska 203168<br>
+Aleksandra Stosio 203792
 </div>
 
 # Projekt 4 - Symulacja Taśmy Produkcyjnej (GDI+)
