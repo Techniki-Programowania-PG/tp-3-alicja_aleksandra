@@ -1,5 +1,5 @@
 <div align="right">
-<strong>Autorki:</strong><br>
+<strong>ACiR grupa 3A</strong><br>
 Alicja Morawska 203168<br>
 Aleksandra Stosio 203792
 </div>
