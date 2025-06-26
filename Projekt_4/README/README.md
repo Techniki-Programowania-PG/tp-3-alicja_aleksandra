@@ -1,6 +1,8 @@
 <div align="right">
-<strong>Alicja Morawska 203168</strong>
-<strong>Aleksandra Stosio 203792</strong>
+<strong>Alicja Morawska 203168
+</strong>
+<strong>
+  Aleksandra Stosio 203792</strong>
 </div>
 
 # Projekt 4 - Symulacja Taśmy Produkcyjnej (GDI+)
